@@ -1,0 +1,9 @@
+DATABASE = "Your MongoDB URI"
+RESEND_API = "Your API key"
+OPENAI_API_KEY = "Your OpenAI api key"
+JWT_SECRET= "Write you jwt key"
+NODE_ENV = "production"
+# OPENSSL_CONF='/dev/null'
+PUBLIC_SERVER_FILE="http://localhost:8888/"
+# demo : admin@demo.com
+# demo pass : admin123
