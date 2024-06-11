@@ -12,12 +12,12 @@ const About = () => {
       extra={
         <>
           <p>
-            Website : <a href="https://www.idurarapp.com">#</a>{' '}
+            Website : <a href="#">Hosted Website in render</a>{' '}
           </p>
           <p>
             GitHub :{' '}
-            <a href="https://github.com/idurar/idurar-erp-crm">
-              https://github.com/idurar/idurar-erp-crm
+            <a href="https://github.com/tetriv0217/CPM-TEJAS-TRIVEDI.git">
+            https://github.com/tetriv0217/CPM-TEJAS-TRIVEDI.git
             </a>
           </p>
           <Button
