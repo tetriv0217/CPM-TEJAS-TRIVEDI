@@ -1,5 +1,5 @@
 const express = require('express');
-
+const path = require('path')
 const cors = require('cors');
 const compression = require('compression');
 
@@ -24,6 +24,8 @@ app.use(
     credentials: true,
   })
 );
+app.use(express.static(path.join(__dirname, 'dist')));
+console.log(path.join(__dirname, 'dist'))
 
 app.use(cookieParser());
 app.use(express.json());
