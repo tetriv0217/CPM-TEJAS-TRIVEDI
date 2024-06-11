@@ -12,7 +12,7 @@ const About = () => {
       extra={
         <>
           <p>
-            Website : <a href="#">Hosted Website in render</a>{' '}
+            Website : <a href="https://cpm-tejas-trivedi-frontend.onrender.com/login">https://cpm-tejas-trivedi-frontend.onrender.com/login</a>{' '}
           </p>
           <p>
             GitHub :{' '}
