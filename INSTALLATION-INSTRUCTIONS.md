@@ -8,13 +8,14 @@ git clone https://github.com/tetriv0217/CPM-TEJAS-TRIVEDI.git
 
 ```bash
 cd CPM-TEJAS-TRIVEDI
+
 ```
 #### Step 2: Create env in the backend and frontend folder
 
 - Make .env file and take the variable names from envtext.txt in both folder.
 
 #### Step 3: Create Your MongoDB Account and Database Cluster
-
+ 
 - Create your own MongoDB account by visiting the MongoDB website and signing up for a new account.
 
 - Create a new database or cluster by following the instructions provided in the MongoDB documentation. Remember to note down the "Connect to your application URI" for the database, as you will need it later. Also, make sure to change `<password>` with your own password
